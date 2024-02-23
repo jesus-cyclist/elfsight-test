@@ -1,6 +1,6 @@
 export enum ClientRoutes {
-    MAIN_PATH = '/elfsight/',
-    CARD_INFO_PATH = '/elfsight/card/'
+    MAIN_PATH = '/elfsight-test/',
+    CARD_INFO_PATH = '/elfsight-test/card/'
 }
 
 export enum ApiRoutes {
